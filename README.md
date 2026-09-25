@@ -161,15 +161,35 @@
 </div>
 
 ### 🔐 SecureScan AI
+
 > **Scan threats. Ship your career.**
 
-Security-focused platform combining URL, password, JWT, hash, SSL, file and web security analysis with career-oriented features.
+AI-powered security scanning and career studio platform combining security analysis tools with AI-powered career features.
 
-**Focus:** Cybersecurity • AI • Web Security • Secure Development
+**Security tools include:** URL Scanner • Password Strength • JWT Decoder • Hash Generator • SQLi/XSS Detector • File Scanner • SSL Checker • AI Security Advisor.
+
+**Career Studio:** Resume Scanner • Cover Letter Drafting • AI Portfolio Builder.
+
+<div align="center">
+
+<a href="https://shield-ai-suite.lovable.app/">
+
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-SecureScan%20AI-00FF9C?style=for-the-badge&logo=lovable&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/yashas621">
+
+<img src="https://img.shields.io/badge/💻%20GITHUB-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
 
 ---
 
 ### 📖 Inkwell Diary
+
 A digital diary application designed around a clean writing and journaling experience.
 
 **Stack:** React • Vite • TanStack Start • Supabase
@@ -177,6 +197,7 @@ A digital diary application designed around a clean writing and journaling exper
 ---
 
 ### 🛡️ CyberShield
+
 Cybersecurity-focused project exploring security concepts, threat awareness and AI-assisted security workflows.
 
 **Focus:** Cybersecurity • AI • Web Security
@@ -184,6 +205,7 @@ Cybersecurity-focused project exploring security concepts, threat awareness and 
 ---
 
 ### 🤖 AI Experiments
+
 A collection of experiments exploring AI tools, automation, AI-assisted development and practical AI applications.
 
 **Focus:** Artificial Intelligence • Automation • Productivity
@@ -305,7 +327,7 @@ Leading the marketing domain and contributing to promotional strategy, outreach,
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> **Note:** GitHub README Markdown cannot directly run a live JavaScript clock. A genuinely updating clock requires an external dynamic SVG/image or an automated GitHub Action. The rest of this README uses GitHub-compatible animated SVG services.
+</div>
 
 ---
 
@@ -323,7 +345,7 @@ Leading the marketing domain and contributing to promotional strategy, outreach,
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=FF00FF&center=true&vCenter=true&width=800&lines=CONNECT_WITH_YASHAS_GOWDA;%3E+GitHub;%3E+LinkedIn;%3E+Email" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=FF00FF&center=true&vCenter=true&width=800&lines=CONNECT+WITH+YASHAS+GOWDA;%3E+GitHub;%3E+LinkedIn;%3E+Email" />
 
 <br><br>
 
