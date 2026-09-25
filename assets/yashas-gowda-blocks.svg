@@ -1,324 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1200"
-     height="300"
-     viewBox="0 0 1200 300">
+<div align="center">
 
-  <defs>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=220&section=header&text=GOWDA%20LAB&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=DIGITAL%20SYSTEMS%20%2F%2F%20CYBERSECURITY%20%2F%2F%20AI&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-    <!-- GREEN GLOW -->
-    <filter id="greenGlow"
-            x="-100%"
-            y="-100%"
-            width="300%"
-            height="300%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=%3E+Initializing+GOWDA+LAB...;%3E+Loading+digital+systems...;%3E+Security+modules+loaded.;%3E+AI+experiments+online.;%3E+Welcome+to+the+lab%2C+Yashas." alt="GOWDA LAB Terminal"/>
 
-      <feGaussianBlur
-        stdDeviation="3"
-        result="blur"/>
+<br>
 
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff9c?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SECURITY-ACTIVE-00ff9c?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/AI-EXPLORING-00ff9c?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/BUILDING-NOW-00ff9c?style=for-the-badge&labelColor=0d1117"/>
 
-    </filter>
+<br><br>
 
-    <filter id="strongGlow"
-            x="-100%"
-            y="-100%"
-            width="300%"
-            height="300%">
+</div>
 
-      <feGaussianBlur
-        stdDeviation="8"
-        result="blur"/>
+---
 
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+# `01 // SYSTEM.IDENTITY`
 
-    </filter>
-
-  </defs>
-
-
-  <!-- ========================= -->
-  <!-- BACKGROUND -->
-  <!-- ========================= -->
-
-  <rect
-    width="1200"
-    height="300"
-    rx="20"
-    fill="#030806"/>
-
-
-  <!-- ========================= -->
-  <!-- TERMINAL GRID -->
-  <!-- ========================= -->
-
-  <g
-    stroke="#00ff88"
-    stroke-opacity="0.06"
-    stroke-width="1">
-
-    <path d="M0 50H1200"/>
-    <path d="M0 100H1200"/>
-    <path d="M0 150H1200"/>
-    <path d="M0 200H1200"/>
-    <path d="M0 250H1200"/>
-
-    <path d="M50V300"/>
-    <path d="M100V300"/>
-    <path d="M150V300"/>
-    <path d="M200V300"/>
-    <path d="M250V300"/>
-    <path d="M300V300"/>
-    <path d="M350V300"/>
-    <path d="M400V300"/>
-    <path d="M450V300"/>
-    <path d="M500V300"/>
-    <path d="M550V300"/>
-    <path d="M600V300"/>
-    <path d="M650V300"/>
-    <path d="M700V300"/>
-    <path d="M750V300"/>
-    <path d="M800V300"/>
-    <path d="M850V300"/>
-    <path d="M900V300"/>
-    <path d="M950V300"/>
-    <path d="M1000V300"/>
-    <path d="M1050V300"/>
-    <path d="M1100V300"/>
-    <path d="M1150V300"/>
-
-  </g>
-
-
-  <!-- ========================= -->
-  <!-- HEADER -->
-  <!-- ========================= -->
-
-  <text
-    x="600"
-    y="38"
-    text-anchor="middle"
-    font-family="monospace"
-    font-size="13"
-    letter-spacing="6"
-    fill="#00ff88">
-
-    G O W D A  L A B  //  IDENTITY SYSTEM
-
-  </text>
-
-
-  <!-- ========================= -->
-  <!-- YASHAS GOWDA -->
-  <!-- BLOCK LETTERS -->
-  <!-- ========================= -->
-
-  <g
-    fill="#00ff66"
-    filter="url(#greenGlow)">
-
-
-    <!-- Y -->
-
-    <rect x="105" y="80" width="12" height="12"/>
-    <rect x="130" y="105" width="12" height="12"/>
-    <rect x="155" y="130" width="12" height="12"/>
-    <rect x="180" y="155" width="12" height="12"/>
-    <rect x="205" y="180" width="12" height="12"/>
-    <rect x="230" y="155" width="12" height="12"/>
-    <rect x="255" y="130" width="12" height="12"/>
-    <rect x="280" y="105" width="12" height="12"/>
-    <rect x="305" y="80" width="12" height="12"/>
-
-    <rect x="205" y="205" width="12" height="12"/>
-    <rect x="205" y="230" width="12" height="12"/>
-
-
-    <!-- A -->
-
-    <rect x="345" y="230" width="12" height="12"/>
-    <rect x="345" y="205" width="12" height="12"/>
-    <rect x="345" y="180" width="12" height="12"/>
-
-    <rect x="370" y="155" width="12" height="12"/>
-    <rect x="395" y="130" width="12" height="12"/>
-    <rect x="420" y="155" width="12" height="12"/>
-
-    <rect x="445" y="180" width="12" height="12"/>
-    <rect x="445" y="205" width="12" height="12"/>
-    <rect x="445" y="230" width="12" height="12"/>
-
-    <rect x="370" y="180" width="12" height="12"/>
-    <rect x="420" y="180" width="12" height="12"/>
-
-
-    <!-- S -->
-
-    <rect x="485" y="130" width="12" height="12"/>
-    <rect x="510" y="130" width="12" height="12"/>
-    <rect x="535" y="130" width="12" height="12"/>
-    <rect x="560" y="130" width="12" height="12"/>
-
-    <rect x="485" y="155" width="12" height="12"/>
-    <rect x="485" y="180" width="12" height="12"/>
-
-    <rect x="510" y="190" width="12" height="12"/>
-    <rect x="535" y="205" width="12" height="12"/>
-
-    <rect x="560" y="215" width="12" height="12"/>
-    <rect x="560" y="230" width="12" height="12"/>
-
-    <rect x="535" y="230" width="12" height="12"/>
-    <rect x="510" y="230" width="12" height="12"/>
-    <rect x="485" y="230" width="12" height="12"/>
-
-
-    <!-- H -->
-
-    <rect x="605" y="130" width="12" height="12"/>
-    <rect x="605" y="155" width="12" height="12"/>
-    <rect x="605" y="180" width="12" height="12"/>
-    <rect x="605" y="205" width="12" height="12"/>
-    <rect x="605" y="230" width="12" height="12"/>
-
-    <rect x="705" y="130" width="12" height="12"/>
-    <rect x="705" y="155" width="12" height="12"/>
-    <rect x="705" y="180" width="12" height="12"/>
-    <rect x="705" y="205" width="12" height="12"/>
-    <rect x="705" y="230" width="12" height="12"/>
-
-    <rect x="630" y="180" width="12" height="12"/>
-    <rect x="655" y="180" width="12" height="12"/>
-    <rect x="680" y="180" width="12" height="12"/>
-
-
-    <!-- A -->
-
-    <rect x="745" y="230" width="12" height="12"/>
-    <rect x="745" y="205" width="12" height="12"/>
-    <rect x="745" y="180" width="12" height="12"/>
-
-    <rect x="770" y="155" width="12" height="12"/>
-    <rect x="795" y="130" width="12" height="12"/>
-    <rect x="820" y="155" width="12" height="12"/>
-
-    <rect x="845" y="180" width="12" height="12"/>
-    <rect x="845" y="205" width="12" height="12"/>
-    <rect x="845" y="230" width="12" height="12"/>
-
-    <rect x="770" y="180" width="12" height="12"/>
-    <rect x="820" y="180" width="12" height="12"/>
-
-
-    <!-- S -->
-
-    <rect x="885" y="130" width="12" height="12"/>
-    <rect x="910" y="130" width="12" height="12"/>
-    <rect x="935" y="130" width="12" height="12"/>
-    <rect x="960" y="130" width="12" height="12"/>
-
-    <rect x="885" y="155" width="12" height="12"/>
-    <rect x="885" y="180" width="12" height="12"/>
-
-    <rect x="910" y="190" width="12" height="12"/>
-    <rect x="935" y="205" width="12" height="12"/>
-
-    <rect x="960" y="215" width="12" height="12"/>
-    <rect x="960" y="230" width="12" height="12"/>
-
-    <rect x="935" y="230" width="12" height="12"/>
-    <rect x="910" y="230" width="12" height="12"/>
-    <rect x="885" y="230" width="12" height="12"/>
-
-  </g>
-
-
-  <!-- ========================= -->
-  <!-- FLOATING GREEN BLOCKS -->
-  <!-- ========================= -->
-
-  <g
-    fill="#00ff66"
-    filter="url(#strongGlow)">
-
-    <rect x="30" y="80" width="7" height="7">
-      <animate
-        attributeName="x"
-        values="30;1150;30"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="1160" y="110" width="6" height="6">
-      <animate
-        attributeName="x"
-        values="1160;30;1160"
-        dur="6s"
-        repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="50" y="250" width="7" height="7">
-      <animate
-        attributeName="x"
-        values="50;1100;50"
-        dur="7s"
-        repeatCount="indefinite"/>
-    </rect>
-
-    <rect x="1100" y="65" width="5" height="5">
-      <animate
-        attributeName="x"
-        values="1100;100;1100"
-        dur="4s"
-        repeatCount="indefinite"/>
-    </rect>
-
-  </g>
-
-
-  <!-- ========================= -->
-  <!-- SCANNING LINE -->
-  <!-- ========================= -->
-
-  <rect
-    x="0"
-    y="60"
-    width="1200"
-    height="2"
-    fill="#00ff66"
-    opacity="0.5"
-    filter="url(#greenGlow)">
-
-    <animate
-      attributeName="y"
-      values="60;240;60"
-      dur="3s"
-      repeatCount="indefinite"/>
-
-  </rect>
-
-
-  <!-- ========================= -->
-  <!-- FOOTER -->
-  <!-- ========================= -->
-
-  <text
-    x="600"
-    y="275"
-    text-anchor="middle"
-    font-family="monospace"
-    font-size="12"
-    letter-spacing="4"
-    fill="#00ff88">
-
-    [ YASHAS GOWDA // SYSTEM ONLINE ]
-
-  </text>
-
-</svg>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                       G O W D A   L A B                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  OPERATOR      : Yashas Gowda                                │
+│  DOMAIN        : Development / Cybersecurity / AI             │
+│  ENVIRONMENT   : Web • Software • Security                    │
+│  MODE          : BUILDING                                     │
+│                                                              │
+│  OBJECTIVE     : Build useful systems.                        │
+│                  Explore how they work.                        │
+│                  Break them. Secure them.                      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
