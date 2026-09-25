@@ -30,7 +30,7 @@
 │  Operator      : Yashas Gowda                            │
 │  Role          : Developer / Cybersecurity Explorer      │
 │  Environment   : Web • AI • Security                     │
-│  Status        : Building                               │
+│  Status        : Building                                │
 │                                                          │
 │  Mission       : Turn ideas into useful systems.         │
 │                                                          │
@@ -100,7 +100,16 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=650&color=00FF9C&center=true&vCenter=true&width=700&lines=Python+%E2%9C%93;Java+%E2%9C%93;JavaScript+%E2%9C%93;C%2FC%2B%2B+%E2%9C%93;PHP+%E2%9C%93;HTML+%2B+CSS+%E2%9C%93;React+%E2%9C%93;Node.js+%E2%9C%93;Git+%2B+GitHub+%E2%9C%93;Firebase+%2B+Supabase+%E2%9C%93;Excel+%2B+MS+Office+%E2%9C%93" alt="Animated Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=700&color=00FF9C&center=true&vCenter=true&width=650&lines=Python+%5B+LOADED+%5D;Java+%5B+LOADED+%5D;JavaScript+%5B+LOADED+%5D;C+%2F+C%2B%2B+%5B+LOADED+%5D;PHP+%5B+LOADED+%5D;HTML+%2F+CSS+%5B+LOADED+%5D;React+%5B+LOADED+%5D;Node.js+%5B+LOADED+%5D;Cybersecurity+%5B+ACTIVE+%5D;Artificial+Intelligence+%5B+ACTIVE+%5D;Firebase+%5B+LOADED+%5D;Supabase+%5B+LOADED+%5D;Git+%2F+GitHub+%5B+LOADED+%5D;VS+Code+%5B+LOADED+%5D;Microsoft+Excel+%5B+LOADED+%5D;Microsoft+Office+%5B+LOADED+%5D;Content+Creation+%5B+ACTIVE+%5D" alt="Animated Skill Stream" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,php,html,css,react,nodejs,git,github,vscode,firebase,supabase&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 
 </div>
 
@@ -170,9 +179,9 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashas621&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashas621&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas621&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas621&layout=compact&theme=transparent&hide_border=true" height="170" />
 
 </div>
 
@@ -194,7 +203,7 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 
 <img src="https://raw.githubusercontent.com/yashas621/yashas621/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=00FF9C&center=true&vCenter=true&width=600&lines=Contribution+matrix+online...;Tracking+activity...;Keep+building.;Keep+committing.;Keep+learning." alt="Contribution Animation" />
 
@@ -255,5 +264,7 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+GOWDA+LAB.;See+you+in+the+next+experiment.;%3E+End+of+transmission..." alt="Footer Animation" />
+
+### `SYSTEM STATUS: ONLINE ⚡`
 
 </div>
