@@ -15,23 +15,32 @@
 <img src="https://img.shields.io/badge/CYBERSECURITY-ACTIVE-00FF88?style=for-the-badge&labelColor=050807">
 <img src="https://img.shields.io/badge/AI-EXPERIMENTAL-00FF88?style=for-the-badge&labelColor=050807">
 
+<br><br>
+
+<a href="https://github.com/yashas621">
+<img src="https://img.shields.io/badge/GitHub-yashas621-00FF88?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=050807">
+</a>
+
+<a href="https://www.linkedin.com/in/yashas-gowda-k-aa737031b/">
+<img src="https://img.shields.io/badge/LinkedIn-Yashas%20Gowda-00FF88?style=for-the-badge&logo=linkedin&logoColor=00FF88&labelColor=050807">
+</a>
+
 </div>
 
 ---
 
 # 👨‍💻 WHOAMI
 
-```bash
-┌──(yashas㉿gowda-lab)-[~]
-└─$ whoami
-
-Yashas Gowda
-
-BCA Student
-Developer
-Cybersecurity Enthusiast
-AI Builder
-Content Creator
-Digital Marketing Enthusiast
-Designer
-Problem Solver
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   USER        : YASHAS GOWDA                            │
+│   ROLE        : DEVELOPER                               │
+│   FOCUS       : CYBERSECURITY                           │
+│                                                         │
+│   INTERESTS   : AI • WEB • CLOUD • DESIGN               │
+│                 CONTENT • MARKETING • SECURITY           │
+│                                                         │
+│   STATUS      : BUILDING                                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
