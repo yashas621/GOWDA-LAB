@@ -1,52 +1,60 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                              GOWDA LAB                                     ║
+║                    Developer • Cybersecurity • AI • Web                    ║
+║                                                                            ║
+║  Repository : https://github.com/yashas621/GOWDA-LAB                      ║
+║  Operator   : yashas621                                                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
 # 🧪 GOWDA LAB
 
-<img src="./assets/yashas-gowda-blocks.svg" width="100%" alt="Yashas Gowda">
+### `DIGITAL LABORATORY // SOFTWARE // CYBERSECURITY // AI`
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=900&lines=YASHAS+GOWDA;BCA+STUDENT+%7C+DEVELOPER;CYBERSECURITY+ENTHUSIAST;AI+BUILDER+%7C+CONTENT+CREATOR;WEB+DEVELOPER+%7C+DESIGNER;BUILDING+%7C+BREAKING+%7C+LEARNING;WELCOME+TO+GOWDA+LAB+%F0%9F%A7%AA" alt="Animated Introduction">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GOWDA_LAB-ONLINE-00FF88?style=for-the-badge&labelColor=050807">
-<img src="https://img.shields.io/badge/BUILDING-ACTIVE-00FF88?style=for-the-badge&labelColor=050807">
-<img src="https://img.shields.io/badge/SECURITY-ACTIVE-00FF88?style=for-the-badge&labelColor=050807">
-<img src="https://img.shields.io/badge/AI-EXPERIMENTAL-00FF88?style=for-the-badge&labelColor=050807">
-
-<br><br>
+<br>
 
 <a href="https://github.com/yashas621">
-<img src="https://img.shields.io/badge/GitHub-yashas621-00FF88?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=050807">
+  <img src="https://img.shields.io/badge/GITHUB-yashas621-00FF88?style=for-the-badge&logo=github&logoColor=050807&labelColor=050807" alt="GitHub profile">
 </a>
-
 <a href="https://www.linkedin.com/in/yashas-gowda-k-aa737031b/">
-<img src="https://img.shields.io/badge/LinkedIn-Yashas_Gowda-00FF88?style=for-the-badge&logo=linkedin&logoColor=00FF88&labelColor=050807">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF88?style=for-the-badge&logo=linkedin&logoColor=050807&labelColor=050807" alt="LinkedIn profile">
+</a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=050807" alt="System status">
+<img src="https://img.shields.io/badge/FOCUS-CYBER%20%2B%20AI-00FF88?style=for-the-badge&labelColor=050807" alt="Focus">
+
+<br><br>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF88&background=05080700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=%3E+Initializing+GOWDA+LAB...;%3E+Building+secure+software+and+intelligent+systems;%3E+Exploring+Cybersecurity+%7C+AI+%7C+Web+%7C+Cloud;%3E+Build.+Test.+Break.+Learn."
+    alt="Animated terminal introduction"
+  />
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 WHO AM I
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+IDENTITY...;%3E+LOADING+DEVELOPER+PROFILE...;%3E+SYSTEM+IDENTITY+LOADED." alt="Who Am I Animation">
-
-</div>
+## 🖥️ SYSTEM / BOOT SEQUENCE
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  NAME        : YASHAS GOWDA                                │
-│  ROLE        : BCA STUDENT / DEVELOPER                     │
-│                                                             │
-│  FOCUS       : CYBERSECURITY                               │
-│  INTERESTS   : AI • WEB • CLOUD • DESIGN                   │
-│                CONTENT • MARKETING • SOFTWARE              │
-│                                                             │
-│  MINDSET     : BUILD • TEST • BREAK • LEARN                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         GOWDA LAB :: BOOT LOG                                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ [ OK ] Kernel interface initialized                                         │
+│ [ OK ] Developer profile loaded                                             │
+│ [ OK ] Security modules available                                           │
+│ [ OK ] AI experimentation environment online                               │
+│ [ OK ] Web development stack mounted                                        │
+│ [ OK ] Cloud deployment modules ready                                        │
+│ [ OK ] Creative systems initialized                                          │
+│ [ OK ] GitHub connection established                                         │
+│                                                                              │
+│  operator@yashas621:~$ ./start-lab.sh                                       │
+│                                                                              │
+│  ACCESS GRANTED                                                              │
+│  Welcome to GOWDA LAB.                                                       │
+└──────────────────────────────────────────────────────────────────────────────┘
