@@ -10,10 +10,10 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILD-00ff88?style=for-the-badge&logo=github&logoColor=000000">
-<img src="https://img.shields.io/badge/BREAK-00ff88?style=for-the-badge&logo=hackthebox&logoColor=000000">
-<img src="https://img.shields.io/badge/LEARN-00ff88?style=for-the-badge&logo=bookstack&logoColor=000000">
-<img src="https://img.shields.io/badge/SECURE-00ff88?style=for-the-badge&logo=shield&logoColor=000000">
+<img src="https://img.shields.io/badge/BUILD-030806?style=for-the-badge&logo=github&logoColor=00ff88">
+<img src="https://img.shields.io/badge/BREAK-030806?style=for-the-badge&logo=hackthebox&logoColor=00ff88">
+<img src="https://img.shields.io/badge/LEARN-030806?style=for-the-badge&logo=bookstack&logoColor=00ff88">
+<img src="https://img.shields.io/badge/SECURE-030806?style=for-the-badge&logo=shield&logoColor=00ff88">
 
 </div>
 
