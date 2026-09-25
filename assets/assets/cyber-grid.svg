@@ -1,1 +1,253 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500"
+xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#030508"/>
+<stop offset="45%" stop-color="#0A1018"/>
+<stop offset="100%" stop-color="#030508"/>
+</linearGradient>
+
+<radialGradient id="glow">
+<stop offset="0%" stop-color="#00FF9C" stop-opacity=".20"/>
+<stop offset="45%" stop-color="#00E5FF" stop-opacity=".08"/>
+<stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+
+<pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+<path d="M50 0H0V50"
+fill="none"
+stroke="#00FF9C"
+stroke-opacity=".13"
+stroke-width="1"/>
+<circle cx="0" cy="0" r="1.5" fill="#00FF9C" opacity=".5"/>
+</pattern>
+
+<filter id="glowFx">
+<feGaussianBlur stdDeviation="5" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1600" height="500" fill="url(#bg)"/>
+
+<!-- MOVING GRID -->
+<rect width="1600" height="500" fill="url(#grid)">
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 0"
+to="50 50"
+dur="8s"
+repeatCount="indefinite"/>
+</rect>
+
+<!-- CENTRAL GLOW -->
+<ellipse cx="800" cy="250" rx="700" ry="280" fill="url(#glow)">
+<animate
+attributeName="opacity"
+values=".45;1;.45"
+dur="4s"
+repeatCount="indefinite"/>
+</ellipse>
+
+<!-- SCANLINES -->
+<rect x="0" y="-5" width="1600" height="3"
+fill="#00FF9C"
+opacity=".75"
+filter="url(#glowFx)">
+<animate
+attributeName="y"
+from="-5"
+to="505"
+dur="4s"
+repeatCount="indefinite"/>
+</rect>
+
+<rect x="0" y="500" width="1600" height="2"
+fill="#00E5FF"
+opacity=".5">
+<animate
+attributeName="y"
+from="500"
+to="-5"
+dur="7s"
+repeatCount="indefinite"/>
+</rect>
+
+<!-- CIRCUIT PATHS -->
+<path
+d="M80 390H350V300H600V370H850V220H1120V300H1500"
+fill="none"
+stroke="#00FF9C"
+stroke-width="2"
+stroke-opacity=".45"
+stroke-dasharray="12 18"
+filter="url(#glowFx)">
+<animate
+attributeName="stroke-dashoffset"
+from="0"
+to="-300"
+dur="3s"
+repeatCount="indefinite"/>
+</path>
+
+<path
+d="M40 120H250V180H470V90H760V150H1030V80H1350V160H1560"
+fill="none"
+stroke="#00E5FF"
+stroke-width="2"
+stroke-opacity=".35"
+stroke-dasharray="8 20">
+<animate
+attributeName="stroke-dashoffset"
+from="0"
+to="300"
+dur="4s"
+repeatCount="indefinite"/>
+</path>
+
+<path
+d="M180 460V400H430V440H700V380H980V430H1240V370H1510"
+fill="none"
+stroke="#BD5CFF"
+stroke-width="2"
+stroke-opacity=".30"
+stroke-dasharray="6 25">
+<animate
+attributeName="stroke-dashoffset"
+from="0"
+to="-250"
+dur="5s"
+repeatCount="indefinite"/>
+</path>
+
+<!-- NODES -->
+<g filter="url(#glowFx)">
+
+<circle cx="350" cy="390" r="5" fill="#00FF9C">
+<animate attributeName="r" values="4;9;4"
+dur="1.6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="600" cy="300" r="5" fill="#00E5FF">
+<animate attributeName="r" values="4;9;4"
+dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="850" cy="370" r="5" fill="#BD5CFF">
+<animate attributeName="r" values="4;9;4"
+dur="1.8s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1120" cy="220" r="5" fill="#FF4ECD">
+<animate attributeName="r" values="4;9;4"
+dur="2.2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1350" cy="300" r="5" fill="#00FF9C">
+<animate attributeName="r" values="4;9;4"
+dur="1.5s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- PARTICLES -->
+<g fill="#00FF9C">
+
+<circle cx="150" cy="80" r="2">
+<animate attributeName="cy"
+values="80;55;80"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="420" cy="150" r="2">
+<animate attributeName="cy"
+values="150;125;150"
+dur="2.7s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="760" cy="70" r="2">
+<animate attributeName="cy"
+values="70;45;70"
+dur="3.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1180" cy="110" r="2">
+<animate attributeName="cy"
+values="110;85;110"
+dur="2.8s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1450" cy="420" r="2">
+<animate attributeName="cy"
+values="420;395;420"
+dur="3.2s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- MOVING CURSOR -->
+<g filter="url(#glowFx)">
+
+<path
+d="M0 0L0 32L9 23L18 42L24 39L15 20L28 20Z"
+fill="#FFFFFF"
+stroke="#00FF9C"
+stroke-width="2">
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="300 100;600 180;900 100;1200 240;300 100"
+dur="10s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="opacity"
+values=".4;1;.4"
+dur="2s"
+repeatCount="indefinite"/>
+
+</path>
+
+</g>
+
+<!-- HUD -->
+<text x="50" y="45"
+fill="#00FF9C"
+font-family="monospace"
+font-size="13"
+opacity=".75">
+GOWDA LAB // SYSTEM VISUALIZATION
+</text>
+
+<text x="1550" y="45"
+fill="#00E5FF"
+font-family="monospace"
+font-size="13"
+text-anchor="end"
+opacity=".75">
+SYSTEM_ONLINE
+</text>
+
+<rect
+x="10" y="10"
+width="1580"
+height="480"
+rx="12"
+fill="none"
+stroke="#00FF9C"
+stroke-opacity=".25"/>
+
+</svg>
