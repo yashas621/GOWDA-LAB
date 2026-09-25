@@ -1,30 +1,27 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        GOWDA LAB README                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ANIMATED CYBER GRID / HERO -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:05070A&text=GOWDA%20LAB&fontColor=00FF9C&fontSize=52&fontAlignY=42&animation=twinkling&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20SECURE%20%E2%80%A2%20CREATE&descAlignY=65&descSize=17&stroke=00FF9C&strokeWidth=1" />
+<img src="./assets/cyber-grid.svg" width="100%" alt="GOWDA LAB animated cyber grid"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=850&lines=DEVELOPER+%2F+CYBERSECURITY+EXPLORER;ARTIFICIAL+INTELLIGENCE+%2B+WEB+DEVELOPMENT;BUILDING+%7C+BREAKING+%7C+SECURING;SYSTEM+INITIALIZATION...;%3E+ACCESS+GRANTED+%E2%96%8C" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=GOWDA+LAB;YASHAS+GOWDA;BUILD+%E2%80%A2+BREAK+%E2%80%A2+SECURE+%E2%80%A2+CREATE" alt="GOWDA LAB"/>
+</a>
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge&labelColor=080B10" />
-&nbsp;
-<img src="https://img.shields.io/badge/SECURITY-ACTIVE-00E5FF?style=for-the-badge&labelColor=080B10" />
-&nbsp;
-<img src="https://img.shields.io/badge/AI-EXPLORING-BD5CFF?style=for-the-badge&labelColor=080B10" />
-&nbsp;
-<img src="https://img.shields.io/badge/BUILDING-NOW-FF4ECD?style=for-the-badge&labelColor=080B10" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Developer+%7C+Cybersecurity+Explorer+%7C+AI+Builder;Full-Stack+Web+Development+%7C+Creative+Technology;Turning+Ideas+Into+Working+Systems+%E2%9A%A1" alt="Animated subtitle"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yashas621&label=LAB+VISITORS&color=00FF9C&style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge&logo=statuspage&logoColor=black"/>
+<img src="https://img.shields.io/badge/SECURITY-ACTIVE-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI-EXPLORING-BD5CFF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/BUILDING-NOW-FF4ECD?style=for-the-badge&logo=rocket&logoColor=white"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yashas621&label=PROFILE%20VISITS&color=00ff9c&style=for-the-badge"/>
 
 </div>
 
@@ -32,76 +29,63 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=01+%2F+IDENTITY;SYSTEM+PROFILE;OPERATOR+INTERFACE" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=01+%2F+IDENTITY;WHO+I+AM;SYSTEM+OPERATOR" alt="Identity"/>
 
 </div>
 
-<br>
-
 <table>
 <tr>
+<td width="55%" valign="top">
 
-<td width="56%" valign="top">
+### `YASHAS GOWDA`
 
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=25&duration=2200&pause=900&color=00FF9C&width=520&lines=YASHAS+GOWDA;DEVELOPER;SECURITY+EXPLORER" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=17&duration=1900&pause=650&color=00E5FF&width=520&lines=WEB+DEVELOPMENT;ARTIFICIAL+INTELLIGENCE;CYBERSECURITY;CREATIVE+TECHNOLOGY" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=00FF9C&width=650&lines=DEVELOPER;CYBERSECURITY+EXPLORER;AI+BUILDER;WEB+DEVELOPER;CONTENT+CREATOR" alt="Roles"/>
 
 <br>
 
-I build and experiment across **web development, artificial intelligence, cybersecurity and creative technology**.
+I'm a **BCA student and developer** interested in building useful digital products across **web development, cybersecurity, artificial intelligence and creative technology**.
 
-I like understanding systems by actually building them, testing them, breaking them and rebuilding them.
+I enjoy taking an idea from:
+
+`IDEA → DESIGN → CODE → TEST → BREAK → FIX → SHIP`
 
 <br>
 
-```text
-THINK  →  BUILD  →  TEST  →  BREAK
-                    ↓
-              UNDERSTAND
-                    ↓
-                SECURE
-                    ↓
-                CREATE
-```
+**Current focus**
+
+- Full-Stack Web Development
+- Cybersecurity & Security Tools
+- Artificial Intelligence
+- Python & Programming
+- Creative Digital Projects
+- Content Creation
 
 </td>
 
-<td width="44%" valign="top">
+<td width="45%" valign="top">
 
 ```text
-╭────────────────────────────────╮
-│                                │
-│       GOWDA LAB / CORE         │
-│                                │
-│  OPERATOR                      │
-│  └─ YASHAS GOWDA               │
-│                                │
-│  ROLE                          │
-│  └─ DEVELOPER                  │
-│                                │
-│  DOMAIN                        │
-│  ├─ WEB       ● ACTIVE         │
-│  ├─ AI        ● ACTIVE         │
-│  ├─ SECURITY  ● ACTIVE         │
-│  └─ CREATIVE  ● ACTIVE         │
-│                                │
-│  SYSTEM                        │
-│  └─ ● ONLINE                  │
-│                                │
-│  cursor.exe  ▌                 │
-│                                │
-╰────────────────────────────────╯
+┌───────────────────────────────┐
+│       GOWDA LAB // CORE       │
+├───────────────────────────────┤
+│                               │
+│  OPERATOR     : YASHAS        │
+│  ROLE         : DEVELOPER     │
+│  DOMAIN       : TECH          │
+│                               │
+│  MODE         : BUILD         │
+│  SECURITY     : ACTIVE        │
+│  AI           : EXPLORING     │
+│  STATUS       : ONLINE        │
+│                               │
+│  cursor.exe   : RUNNING █     │
+│                               │
+└───────────────────────────────┘
 ```
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=500&color=BD5CFF&center=true&vCenter=true&width=400&lines=%3E+profile.loaded;%3E+operator.verified;%3E+systems.ready;%3E+cursor.active+%E2%96%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=1800&pause=500&color=00FF9C&width=500&lines=%5BSYSTEM%5D+Initializing...;%5BSYSTEM%5D+Modules+loaded.;%5BSYSTEM%5D+Developer+online.;%5BSYSTEM%5D+Ready+to+build+%E2%96%88" alt="Terminal animation"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -109,40 +93,34 @@ THINK  →  BUILD  →  TEST  →  BREAK
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=02+%2F+ACTIVE+PROJECTS;PROJECT+CONTROL+CENTER;EXPERIMENT+REGISTRY" />
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=28&duration=2500&pause=800&color=BD5CFF&center=true&vCenter=true&width=700&lines=02+%2F+ACTIVE+PROJECTS;PROJECT+LAB;BUILDING+IN+PUBLIC" alt="Projects"/>
 
 </div>
-
-<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=22&duration=2200&pause=700&color=00FF9C&width=450&lines=01+%2F+SECURESCAN+AI" />
+### 🛡️ SecureScan AI
 
-**CYBERSECURITY × AI**
+**Cybersecurity + AI**
 
-Security-focused platform exploring URL, password, JWT, hash, SSL, file and web-security analysis.
+Security-focused toolkit for analysing URLs, files, hashes, JWTs, SSL and common web-security risks.
 
-<br>
-
-<img src="https://img.shields.io/badge/●%20ACTIVE-00FF9C?style=flat-square&labelColor=0D1117" />
+`SECURITY` `AI` `WEB`
 
 </td>
 
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=22&duration=2200&pause=700&color=00E5FF&width=450&lines=02+%2F+INKWELL+DIARY" />
+### 📓 Inkwell Diary
 
-**FULL-STACK WEB**
+**Full-Stack Web**
 
-Modern diary application built around authentication, personal entries and cloud-backed data.
+A modern digital diary application with authentication, cloud data and a polished user experience.
 
-<br>
-
-<img src="https://img.shields.io/badge/●%20ACTIVE-00E5FF?style=flat-square&labelColor=0D1117" />
+`REACT` `SUPABASE` `WEB`
 
 </td>
 
@@ -152,29 +130,25 @@ Modern diary application built around authentication, personal entries and cloud
 
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=22&duration=2200&pause=700&color=BD5CFF&width=450&lines=03+%2F+CYBERSHIELD" />
+### 🧬 CyberShield
 
-**CYBERSECURITY**
+**Cybersecurity**
 
-Security-oriented project exploring practical defensive concepts and security workflows.
+A security-focused project exploring practical cybersecurity workflows and defensive tooling.
 
-<br>
-
-<img src="https://img.shields.io/badge/●%20DEVELOPING-BD5CFF?style=flat-square&labelColor=0D1117" />
+`SECURITY` `AI` `TOOLS`
 
 </td>
 
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=22&duration=2200&pause=700&color=FF4ECD&width=450&lines=04+%2F+AI+EXPERIMENTS" />
+### 🤖 AI Experiments
 
-**ARTIFICIAL INTELLIGENCE**
+**Artificial Intelligence**
 
-Experiments exploring AI-powered applications, automation and intelligent systems.
+A collection of experiments exploring AI-powered applications, automation and intelligent interfaces.
 
-<br>
-
-<img src="https://img.shields.io/badge/●%20EXPLORING-FF4ECD?style=flat-square&labelColor=0D1117" />
+`PYTHON` `AI` `EXPERIMENTS`
 
 </td>
 
@@ -183,7 +157,7 @@ Experiments exploring AI-powered applications, automation and intelligent system
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=1500&pause=400&color=00FF9C&center=true&vCenter=true&width=800&lines=%5B+PROJECT+MONITOR+%5D+SCANNING...;%5B+PROJECT+MONITOR+%5D+PROJECTS+LOADED;%5B+PROJECT+MONITOR+%5D+SYSTEMS+OPERATIONAL;%5B+PROJECT+MONITOR+%5D+NEXT+EXPERIMENT+LOADING+%E2%96%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=1800&pause=600&color=FF4ECD&center=true&vCenter=true&width=750&lines=%5BPROJECT+MONITOR%5D+Scanning+active+builds...;%5BPROJECT+MONITOR%5D+Ideas+%E2%86%92+Systems;%5BPROJECT+MONITOR%5D+Build+pipeline+ACTIVE+%E2%96%88" alt="Project monitor"/>
 
 </div>
 
@@ -191,25 +165,45 @@ Experiments exploring AI-powered applications, automation and intelligent system
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=900&color=BD5CFF&center=true&vCenter=true&width=700&lines=03+%2F+TECHNOLOGY+STACK;SKILL+REGISTRY;DEVELOPER+TOOLCHAIN" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=03+%2F+TECHNOLOGY+STACK;TOOLS+%26+SKILLS;THE+SKILL+REGISTRY" alt="Skills"/>
+
+</div>
+
+<div align="center">
+
+### `PROGRAMMING`
+
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,php,html,css&perline=7" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,html,css,react,nodejs&perline=10" />
+### `DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,supabase,git,github,vscode&perline=7" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,supabase&perline=5" />
+### `CYBERSECURITY + AI`
+
+<img src="https://skillicons.dev/icons?i=python,linux,docker&perline=6" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+### `PRODUCTIVITY`
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=1500&pause=450&color=00E5FF&center=true&vCenter=true&width=850&lines=PYTHON+%7C+JAVA+%7C+JAVASCRIPT+%7C+C%2FC%2B%2B+%7C+PHP;HTML+%7C+CSS+%7C+REACT+%7C+NODE.JS;GIT+%7C+GITHUB+%7C+VSCODE+%7C+FIREBASE+%7C+SUPABASE;MICROSOFT+EXCEL+%7C+MICROSOFT+OFFICE;CYBERSECURITY+%7C+AI+%7C+CONTENT+CREATION" />
+### `CREATIVE`
+
+<img src="https://img.shields.io/badge/Content_Creation-FF4ECD?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Social_Media-00E5FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=800&lines=Python+%E2%9C%93+Java+%E2%9C%93+JavaScript+%E2%9C%93;Web+%E2%9C%93+Cybersecurity+%E2%9C%93+AI+%E2%9C%93;Excel+%E2%9C%93+MS+Office+%E2%9C%93;Git+%E2%9C%93+Cloud+%E2%9C%93+Creative+Tech+%E2%9C%93" alt="Skill registry"/>
 
 </div>
 
@@ -217,44 +211,32 @@ Experiments exploring AI-powered applications, automation and intelligent system
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=900&color=FF4ECD&center=true&vCenter=true&width=700&lines=04+%2F+SECURITY+LAB;DEFENSE+SYSTEMS;SECURITY+ENGINE+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=FF4ECD&center=true&vCenter=true&width=700&lines=04+%2F+SECURITY+LAB;SECURITY+ENGINE;DEFEND+%E2%80%A2+TEST+%E2%80%A2+LEARN" alt="Security Lab"/>
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td>
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                  SECURITY ENGINE / v2.0                      │
+┌──────────────────────────────────────────────────────────────┐
+│                    GOWDA SECURITY ENGINE                     │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  WEB SECURITY          ████████████████████   ● ON          │
-│  APPLICATION SECURITY  ████████████████████   ● ON          │
-│  CYBERSECURITY         ████████████████████   ● ON          │
-│  AI SECURITY           ████████████████████   ● ON          │
-│  CTF / LABS            ████████████████████   ● ON          │
-│  SECURE DEVELOPMENT    ████████████████████   ● ON          │
+│  URL ANALYSIS       ████████████████████  ACTIVE             │
+│  HASH ANALYSIS      ██████████████████░░  ACTIVE             │
+│  JWT INSPECTION     █████████████████░░░  ACTIVE             │
+│  SSL ANALYSIS       ████████████████░░░░  ACTIVE             │
+│  FILE ANALYSIS      ███████████████░░░░░  ACTIVE             │
+│  WEB SECURITY       ███████████████████░  ACTIVE             │
 │                                                              │
-├──────────────────────────────────────────────────────────────┤
+│  SECURITY MODE      >>> MONITORING                           │
+│  THREAT ENGINE      >>> READY                                │
+│  SYSTEM STATUS      >>> ONLINE                               │
 │                                                              │
-│  MONITORING            ● ENABLED                            │
-│  DEFENSE               ● ACTIVE                             │
-│  ENGINE                ● ONLINE                             │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+└──────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1600&pause=450&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+security.engine.start%28%29;%3E+checking+attack+surface...;%3E+analyzing+security+layers...;%3E+defensive+modules+online...;%3E+threat.monitor+%3D+ACTIVE;%3E+security.engine+%3D+ONLINE+%E2%96%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=FF4ECD&center=true&vCenter=true&width=850&lines=%5BSECURITY%5D+Scanning+surface...;%5BSECURITY%5D+Analysing+signals...;%5BSECURITY%5D+Testing+defences...;%5BSECURITY%5D+Engine+READY+%E2%96%88" alt="Security engine"/>
 
 </div>
 
@@ -262,59 +244,21 @@ Experiments exploring AI-powered applications, automation and intelligent system
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=05+%2F+ENGINEERING+LOOP;DEVELOPMENT+PHILOSOPHY;THE+GOWDA+METHOD" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=28&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=05+%2F+ENGINEERING+LOOP;HOW+I+BUILD;THE+LAB+PROTOCOL" alt="Engineering Loop"/>
 
 <br><br>
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/01_THINK-00FF9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02_BUILD-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03_TEST-BD5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04_BREAK-FF4ECD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05_LEARN-00FF9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/06_SECURE-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/07_CREATE-BD5CFF?style=for-the-badge"/>
 
-<td align="center">
-<img src="https://img.shields.io/badge/01-THINK-00FF9C?style=for-the-badge&labelColor=080B10" />
-</td>
+<br><br>
 
-<td>→</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/02-BUILD-00E5FF?style=for-the-badge&labelColor=080B10" />
-</td>
-
-<td>→</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/03-TEST-BD5CFF?style=for-the-badge&labelColor=080B10" />
-</td>
-
-<td>→</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/04-BREAK-FF4ECD?style=for-the-badge&labelColor=080B10" />
-</td>
-
-<td>→</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/05-LEARN-00FF9C?style=for-the-badge&labelColor=080B10" />
-</td>
-
-<td>→</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/06-SECURE-00E5FF?style=for-the-badge&labelColor=080B10" />
-</td>
-
-<td>→</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/07-CREATE-BD5CFF?style=for-the-badge&labelColor=080B10" />
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=15&duration=2300&pause=750&color=00FF9C&center=true&vCenter=true&width=850&lines=UNDERSTAND+THE+SYSTEM.;IMPROVE+THE+SYSTEM.;BUILD+THE+NEXT+SYSTEM.;NEVER+STOP+EXPERIMENTING+%E2%96%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2300&pause=600&color=00FF9C&center=true&vCenter=true&width=850&lines=Think+deep.;Build+fast.;Test+everything.;Break+things+to+understand+them.;Learn+from+failure.;Secure+what+you+build.;Create+something+worth+using." alt="Engineering philosophy"/>
 
 </div>
 
@@ -322,19 +266,21 @@ Experiments exploring AI-powered applications, automation and intelligent system
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=06+%2F+GITHUB+ANALYTICS;DEVELOPMENT+METRICS;ACTIVITY+MONITOR" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=06+%2F+GITHUB+ANALYTICS;DEVELOPER+TELEMETRY;ACTIVITY+STREAM" alt="Analytics"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashas621&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=yashas621&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas621&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas621&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=yashas621&theme=radical&hide_border=true" width="700"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=yashas621&theme=radical&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=1800&pause=600&color=BD5CFF&center=true&vCenter=true&width=800&lines=%5BTELEMETRY%5D+Contribution+stream+active...;%5BTELEMETRY%5D+Repositories+online...;%5BTELEMETRY%5D+Development+cycle+continues+%E2%96%88" alt="Telemetry"/>
 
 </div>
 
@@ -342,25 +288,23 @@ Experiments exploring AI-powered applications, automation and intelligent system
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=1800&pause=900&color=BD5CFF&center=true&vCenter=true&width=650&lines=07+%2F+DIGITAL+PRESENCE;SECURE+CHANNELS;ACCESS+POINTS" />
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=28&duration=2500&pause=800&color=BD5CFF&center=true&vCenter=true&width=700&lines=07+%2F+DIGITAL+PRESENCE;FIND+ME;ONLINE+NODES" alt="Digital Presence"/>
 
 <br><br>
-
-<!-- SAME LINE — ICONS ONLY -->
 
 <a href="https://github.com/yashas621">
-<img src="https://skillicons.dev/icons?i=github" width="65" />
+<img src="https://skillicons.dev/icons?i=github" width="70" alt="GitHub"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/yashas-gowda-k-aa737031b/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="65" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="70" alt="LinkedIn"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1600&pause=500&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+github.connection+%3D+VERIFIED;%3E+linkedin.connection+%3D+VERIFIED;%3E+secure.channel+%3D+ESTABLISHED;%3E+digital.presence+%3D+ONLINE;%3E+access.granted+%E2%96%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=GitHub+%E2%86%92+SOURCE;LinkedIn+%E2%86%92+NETWORK;GOWDA+LAB+%E2%86%92+BUILD" alt="Digital connections"/>
 
 </div>
 
@@ -368,33 +312,24 @@ Experiments exploring AI-powered applications, automation and intelligent system
 
 <div align="center">
 
-<!-- ANIMATED LOWER CYBER WAVE -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:05070A,50:111827,100:0D1117&section=footer&animation=twinkling&stroke=00FF9C&strokeWidth=1" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=1800&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=GOWDA+LAB+%2F+TERMINAL;SYSTEM+STATUS%3A+ONLINE;CONNECTION%3A+ESTABLISHED" />
+<img src="./assets/cyber-grid.svg" width="100%" alt="GOWDA LAB animated cyber grid"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=850&lines=THANKS+FOR+ENTERING+GOWDA+LAB;BUILD+%E2%80%A2+BREAK+%E2%80%A2+SECURE+%E2%80%A2+CREATE;SYSTEM+ONLINE+%E2%96%88" alt="Footer"/>
+
+<br><br>
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                    GOWDA LAB / TERMINAL                     │
-│                                                              │
-│          BUILD  →  BREAK  →  SECURE  →  CREATE              │
-│                                                              │
-│     SYSTEM        ● ONLINE                                  │
-│     SECURITY      ● ACTIVE                                  │
-│     NETWORK       ● CONNECTED                               │
-│     TERMINAL      ● RUNNING                                 │
-│                                                              │
-│     $ next-experiment --load ▌                               │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   GOWDA LAB // TERMINAL                             │
+│                                                     │
+│   > session terminated                              │
+│   > connection preserved                            │
+│   > next build loading... █                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2100&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Thanks+for+entering+GOWDA+LAB.;Keep+building.;Keep+learning.;Keep+experimenting.;Next+experiment+loading...;%3E+END_OF_TRANSMISSION+%E2%96%8C" />
 
 </div>
