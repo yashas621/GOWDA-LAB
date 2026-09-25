@@ -32,15 +32,15 @@
 # 👨‍💻 WHOAMI
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   USER        : YASHAS GOWDA                            │
-│   ROLE        : DEVELOPER                               │
-│   FOCUS       : CYBERSECURITY                           │
-│                                                         │
-│   INTERESTS   : AI • WEB • CLOUD • DESIGN               │
-│                 CONTENT • MARKETING • SECURITY           │
-│                                                         │
-│   STATUS      : BUILDING                                │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  USER       : YASHAS GOWDA                           │
+│  ROLE       : DEVELOPER                              │
+│  FOCUS      : CYBERSECURITY                          │
+│                                                      │
+│  INTERESTS  : AI • WEB • CLOUD • DESIGN              │
+│               CONTENT • MARKETING • SECURITY          │
+│                                                      │
+│  STATUS     : BUILDING                               │
+│                                                      │
+└──────────────────────────────────────────────────────┘
