@@ -115,77 +115,124 @@ Repeat.
 
 ⚡ SKILLS
 
- <div align="center"> 
+<div align="center">
+
+Actual technology icons • large • colorful • GitHub README compatible
 
 💻 PROGRAMMING
 
-<img src="https\://cdn.simpleicons.org/python/00FF88" width="58" height="58" title="Python" alt="Python">   <img src="https\://cdn.simpleicons.org/openjdk/00FF88" width="58" height="58" title="Java" alt="Java">   <img src="https\://cdn.simpleicons.org/c/00FF88" width="58" height="58" title="C" alt="C">   <img src="https\://cdn.simpleicons.org/cplusplus/00FF88" width="58" height="58" title="C++" alt="C++">   <img src="https\://cdn.simpleicons.org/javascript/00FF88" width="58" height="58" title="JavaScript" alt="JavaScript">   <img src="https\://cdn.simpleicons.org/php/00FF88" width="58" height="58" title="PHP" alt="PHP">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="64" title="Python" alt="Python">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="64" title="Java" alt="Java">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" title="C" alt="C">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" title="C++" alt="C++">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" title="JavaScript" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="64" title="PHP" alt="PHP">
+</p>
 
 🌐 WEB DEVELOPMENT
 
-<img src="https\://cdn.simpleicons.org/html5/00FF88" width="58" height="58" title="HTML5" alt="HTML5">   <img src="https\://cdn.simpleicons.org/css/00FF88" width="58" height="58" title="CSS" alt="CSS">   <img src="https\://cdn.simpleicons.org/react/00FF88" width="58" height="58" title="React" alt="React">   <img src="https\://cdn.simpleicons.org/nodedotjs/00FF88" width="58" height="58" title="Node.js" alt="Node.js">   <img src="https\://cdn.simpleicons.org/vite/00FF88" width="58" height="58" title="Vite" alt="Vite">   <img src="https\://cdn.simpleicons.org/tailwindcss/00FF88" width="58" height="58" title="Tailwind CSS" alt="Tailwind CSS">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="64" title="HTML" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" title="CSS" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" title="React" alt="React">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="64" title="Node.js" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="64" title="Vite" alt="Vite">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="64" title="Tailwind CSS" alt="Tailwind CSS">
+</p>
 
 🔐 CYBERSECURITY
 
-<img src="https\://cdn.simpleicons.org/linux/00FF88" width="58" height="58" title="Linux" alt="Linux">   <img src="https\://cdn.simpleicons.org/gnubash/00FF88" width="58" height="58" title="Bash" alt="Bash">   <img src="https\://cdn.simpleicons.org/kalilinux/00FF88" width="58" height="58" title="Kali Linux" alt="Kali Linux">   <img src="https\://cdn.simpleicons.org/owasp/00FF88" width="58" height="58" title="OWASP" alt="OWASP">   <img src="https\://cdn.simpleicons.org/tryhackme/00FF88" width="58" height="58" title="TryHackMe / CTF" alt="CTF">   <img src="https\://cdn.simpleicons.org/hackthebox/00FF88" width="58" height="58" title="Hack The Box / Security Labs" alt="Security labs">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="64" title="Linux" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="64" title="Bash" alt="Bash">
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="64" title="Kali Linux" alt="Kali Linux">
+  <img src="https://cdn.simpleicons.org/owasp/00FF88" width="64" title="OWASP" alt="OWASP">
+  <img src="https://cdn.simpleicons.org/tryhackme/00FF88" width="64" title="CTF / TryHackMe" alt="CTF / TryHackMe">
+  <img src="https://cdn.simpleicons.org/hackthebox/00FF88" width="64" title="Hack The Box" alt="Hack The Box">
+</p>
 
 🤖 ARTIFICIAL INTELLIGENCE
 
-<img src="https\://cdn.simpleicons.org/python/00FF88" width="58" height="58" title="Python for AI" alt="Python">   <img src="https\://cdn.simpleicons.org/tensorflow/00FF88" width="58" height="58" title="TensorFlow" alt="TensorFlow">   <img src="https\://cdn.simpleicons.org/openai/00FF88" width="58" height="58" title="OpenAI" alt="OpenAI">   <img src="https\://cdn.simpleicons.org/robotframework/00FF88" width="58" height="58" title="Automation" alt="Automation">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="64" title="Python" alt="Python">
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="64" title="TensorFlow" alt="TensorFlow">
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="64" title="OpenAI" alt="OpenAI">
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="64" title="AI / Machine Learning" alt="AI / Machine Learning">
+</p>
 
 ☁️ CLOUD & DEPLOYMENT
 
-<img src="https\://cdn.simpleicons.org/firebase/00FF88" width="58" height="58" title="Firebase" alt="Firebase">   <img src="https\://cdn.simpleicons.org/supabase/00FF88" width="58" height="58" title="Supabase" alt="Supabase">   <img src="https\://cdn.simpleicons.org/vercel/00FF88" width="58" height="58" title="Vercel" alt="Vercel">   <img src="https\://cdn.simpleicons.org/googlecloud/00FF88" width="58" height="58" title="Google Cloud" alt="Google Cloud">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="64" title="Firebase" alt="Firebase">
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="64" title="Supabase" alt="Supabase">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="64" title="Vercel" alt="Vercel">
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="64" title="Google Cloud" alt="Google Cloud">
+</p>
 
 🧪 SOFTWARE TESTING
 
-<img src="https\://cdn.simpleicons.org/selenium/00FF88" width="58" height="58" title="Selenium / Test Automation" alt="Selenium">   <img src="https\://cdn.simpleicons.org/junit5/00FF88" width="58" height="58" title="JUnit / Testing" alt="JUnit">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="64" title="Selenium / Test Automation" alt="Selenium">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="64" title="JUnit / Java Testing" alt="JUnit / Java Testing">
+  <img src="https://cdn.simpleicons.org/robotframework/00FF88" width="64" title="Automation Testing" alt="Automation Testing">
+</p>
 
 🧠 SOFTWARE ENGINEERING
 
-<img src="https\://cdn.simpleicons.org/cplusplus/00FF88" width="58" height="58" title="OOP / C++" alt="C++">   <img src="https\://cdn.simpleicons.org/python/00FF88" width="58" height="58" title="Problem Solving / Python" alt="Python">   <img src="https\://cdn.simpleicons.org/leetcode/00FF88" width="58" height="58" title="DSA / Problem Solving" alt="LeetCode">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" title="OOP / C++" alt="OOP / C++">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="64" title="Problem Solving / Python" alt="Problem Solving / Python">
+  <img src="https://cdn.simpleicons.org/leetcode/00FF88" width="64" title="DSA / LeetCode" alt="DSA / LeetCode">
+</p>
 
 🎨 DESIGN
 
-<img src="https\://cdn.simpleicons.org/figma/00FF88" width="58" height="58" title="Figma" alt="Figma">   <img src="https\://cdn.simpleicons.org/canva/00FF88" width="58" height="58" title="Canva" alt="Canva">   <img src="https\://cdn.simpleicons.org/adobe/00FF88" width="58" height="58" title="Adobe" alt="Adobe">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="64" title="Figma" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=canva&theme=dark" width="64" title="Canva" alt="Canva">
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="64" title="Adobe After Effects" alt="Adobe After Effects">
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="64" title="Adobe Photoshop" alt="Adobe Photoshop">
+</p>
 
 🎬 CONTENT CREATION
 
-<img src="https\://cdn.simpleicons.org/youtube/00FF88" width="58" height="58" title="YouTube" alt="YouTube">   <img src="https\://cdn.simpleicons.org/instagram/00FF88" width="58" height="58" title="Instagram" alt="Instagram">   <img src="https\://cdn.simpleicons.org/adobe/00FF88" width="58" height="58" title="Adobe Creative Tools" alt="Adobe">
-
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=youtube&theme=dark" width="64" title="YouTube" alt="YouTube">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="64" title="Instagram" alt="Instagram">
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="64" title="Adobe Creative Tools" alt="Adobe Creative Tools">
+  <img src="https://skillicons.dev/icons?i=pr&theme=dark" width="64" title="Adobe Premiere Pro" alt="Adobe Premiere Pro">
+</p>
 
 📢 DIGITAL MARKETING
 
-<img src="https\://cdn.simpleicons.org/googleads/00FF88" width="58" height="58" title="Google Ads" alt="Google Ads">   <img src="https\://cdn.simpleicons.org/googleanalytics/00FF88" width="58" height="58" title="Google Analytics" alt="Google Analytics">   <img src="https\://cdn.simpleicons.org/instagram/00FF88" width="58" height="58" title="Instagram Marketing" alt="Instagram Marketing">
-
-<br><br>
+<p>
+  <img src="https://cdn.simpleicons.org/googleads/00FF88" width="64" title="Google Ads" alt="Google Ads">
+  <img src="https://cdn.simpleicons.org/googleanalytics/00FF88" width="64" title="Google Analytics" alt="Google Analytics">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="64" title="Instagram Marketing" alt="Instagram Marketing">
+  <img src="https://skillicons.dev/icons?i=google&theme=dark" width="64" title="Google" alt="Google">
+</p>
 
 📊 MICROSOFT OFFICE
 
-<img src="https\://cdn.simpleicons.org/microsoftexcel/00FF88" width="58" height="58" title="Microsoft Excel" alt="Microsoft Excel">   <img src="https\://cdn.simpleicons.org/microsoftword/00FF88" width="58" height="58" title="Microsoft Word" alt="Microsoft Word">   <img src="https\://cdn.simpleicons.org/microsoftpowerpoint/00FF88" width="58" height="58" title="Microsoft PowerPoint" alt="Microsoft PowerPoint">   <img src="https\://cdn.simpleicons.org/microsoftoffice/00FF88" width="58" height="58" title="Microsoft Office" alt="Microsoft Office">
-
-<br><br>
+<p>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/00FF88" width="64" title="Microsoft Excel" alt="Microsoft Excel">
+  <img src="https://cdn.simpleicons.org/microsoftword/00FF88" width="64" title="Microsoft Word" alt="Microsoft Word">
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/00FF88" width="64" title="Microsoft PowerPoint" alt="Microsoft PowerPoint">
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="64" title="Microsoft ecosystem" alt="Microsoft ecosystem">
+</p>
 
 🛠️ TOOLS
 
-<img src="https\://cdn.simpleicons.org/git/00FF88" width="58" height="58" title="Git" alt="Git">   <img src="https\://cdn.simpleicons.org/github/00FF88" width="58" height="58" title="GitHub" alt="GitHub">   <img src="https\://cdn.simpleicons.org/visualstudiocode/00FF88" width="58" height="58" title="Visual Studio Code" alt="Visual Studio Code">   <img src="https\://cdn.simpleicons.org/linux/00FF88" width="58" height="58" title="Linux" alt="Linux"> </div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" title="Git" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" title="GitHub" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64" title="Visual Studio Code" alt="Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="64" title="Linux" alt="Linux">
+</p>
+
+</div>
+---
 
 🧰 TECHNOLOGY STACK
 
