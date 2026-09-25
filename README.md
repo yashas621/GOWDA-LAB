@@ -69,6 +69,10 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=Python+%5B+LOADED+%5D;Java+%5B+LOADED+%5D;JavaScript+%5B+LOADED+%5D;C+%2F+C%2B%2B+%5B+LOADED+%5D;PHP+%5B+LOADED+%5D;HTML+%2F+CSS+%5B+LOADED+%5D;React+%5B+LOADED+%5D;Node.js+%5B+LOADED+%5D;Cybersecurity+%5B+ACTIVE+%5D;Artificial+Intelligence+%5B+ACTIVE+%5D;Firebase+%5B+LOADED+%5D;Supabase+%5B+LOADED+%5D;Git+%2F+GitHub+%5B+LOADED+%5D;VS+Code+%5B+LOADED+%5D;Microsoft+Excel+%5B+LOADED+%5D;Microsoft+Office+%5B+LOADED+%5D;Content+Creation+%5B+ACTIVE+%5D" alt="Animated Skills" />
+
+<br><br>
+
 ### `PROGRAMMING`
 
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,php&perline=6" />
@@ -92,24 +96,13 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 
-</div>
-
----
-
-## 💻 `SKILL STREAM`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=700&color=00FF9C&center=true&vCenter=true&width=650&lines=Python+%5B+LOADED+%5D;Java+%5B+LOADED+%5D;JavaScript+%5B+LOADED+%5D;C+%2F+C%2B%2B+%5B+LOADED+%5D;PHP+%5B+LOADED+%5D;HTML+%2F+CSS+%5B+LOADED+%5D;React+%5B+LOADED+%5D;Node.js+%5B+LOADED+%5D;Cybersecurity+%5B+ACTIVE+%5D;Artificial+Intelligence+%5B+ACTIVE+%5D;Firebase+%5B+LOADED+%5D;Supabase+%5B+LOADED+%5D;Git+%2F+GitHub+%5B+LOADED+%5D;VS+Code+%5B+LOADED+%5D;Microsoft+Excel+%5B+LOADED+%5D;Microsoft+Office+%5B+LOADED+%5D;Content+Creation+%5B+ACTIVE+%5D" alt="Animated Skill Stream" />
-
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,php,html,css,react,nodejs,git,github,vscode,firebase,supabase&perline=8" />
+### `CONTENT & SECURITY`
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/AI-0d1117?style=for-the-badge&logo=openai&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/Content%20Creation-0d1117?style=for-the-badge&logo=youtube&logoColor=00FF9C" />
 
 </div>
 
@@ -211,60 +204,38 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 
 ---
 
-## 🛰️ `SYSTEM LOG`
-
-```text
-[BOOT]        GOWDA LAB initializing...
-[LOAD]        Developer environment detected
-[LOAD]        Web systems detected
-[LOAD]        AI experiments detected
-[LOAD]        Security modules detected
-[SCAN]        Projects loaded
-[SCAN]        Skills loaded
-[STATUS]      ONLINE
-[MODE]        BUILD • BREAK • SECURE • CREATE
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+GOWDA+LAB+%5D+Ready+for+the+next+experiment...;%5B+SYSTEM+%5D+ONLINE;%5B+STATUS+%5D+BUILDING;%5B+MODE+%5D+SECURITY+%2B+AI+%2B+WEB" alt="System Log Animation" />
-
-</div>
-
----
-
 ## 🌐 `CONNECT TO THE LAB`
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=650&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+BOOT+%5D+GOWDA+LAB+connection+module...;%5B+SCAN+%5D+Checking+available+channels...;%5B+OK+%5D+GitHub+connection+ready;%5B+OK+%5D+LinkedIn+connection+ready;%5B+STATUS+%5D+ONLINE;%5B+MODE+%5D+READY+TO+CONNECT" alt="Connection Animation" />
+
+<br><br>
+
 <a href="https://github.com/yashas621">
-<img src="https://img.shields.io/badge/GitHub-GOWDA%20LAB-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%90%99-GitHub-0d1117?style=for-the-badge" alt="GitHub" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/yashas-gowda-k-aa737031b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC-LinkedIn-0d1117?style=for-the-badge" alt="LinkedIn" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║                  G O W D A   L A B                       ║
+║                  CONNECTION ESTABLISHED                  ║
 ║                                                          ║
-║          BUILD • BREAK • SECURE • CREATE                 ║
+║             BUILD • BREAK • SECURE • CREATE              ║
 ║                                                          ║
-║                 SYSTEM STATUS: ONLINE                   ║
+║                  SYSTEM STATUS: ONLINE                   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+GOWDA+LAB.;See+you+in+the+next+experiment.;%3E+End+of+transmission..." alt="Footer Animation" />
-
-### `SYSTEM STATUS: ONLINE ⚡`
 
 </div>
