@@ -1,42 +1,37 @@
 <div align="center">
 
-# 🧪 G O W D A &nbsp; L A B
+# ⚡ Y A S H A S &nbsp; G O W D A
 
-### `DIGITAL SYSTEMS // DEVELOPMENT // DESIGN // SECURITY // AI // MARKETING`
+### `DEVELOPER // DESIGNER // AI BUILDER // CONTENT CREATOR`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+GOWDA+LAB...;%3E+LOADING+YASHAS+GOWDA...;%3E+DEVELOPER+%5BONLINE%5D;%3E+DESIGNER+%5BONLINE%5D;%3E+CYBERSECURITY+%5BACTIVE%5D;%3E+AI+BUILDER+%5BONLINE%5D;%3E+MARKETING+%5BACTIVE%5D;%3E+CONTENT+CREATOR+%5BONLINE%5D;%3E+SYSTEM+READY." alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=950&lines=%3E+INITIALIZING+YASHAS+GOWDA...;%3E+LOADING+DIGITAL+PROFILE...;%3E+DEVELOPER+%5BONLINE%5D;%3E+DESIGNER+%5BONLINE%5D;%3E+AI+BUILDER+%5BONLINE%5D;%3E+MARKETING+%5BACTIVE%5D;%3E+CONTENT+CREATOR+%5BONLINE%5D;%3E+SYSTEM+READY." alt="Typing Animation">
 
 <br>
 
 <img src="https://img.shields.io/badge/DEVELOPER-ONLINE-00ff9c?style=for-the-badge&labelColor=0d1117">
 <img src="https://img.shields.io/badge/DESIGNER-ONLINE-00d9ff?style=for-the-badge&labelColor=0d1117">
-<img src="https://img.shields.io/badge/CYBERSECURITY-ACTIVE-ff3b81?style=for-the-badge&labelColor=0d1117">
 <img src="https://img.shields.io/badge/AI-BUILDING-b967ff?style=for-the-badge&labelColor=0d1117">
 <img src="https://img.shields.io/badge/MARKETING-ACTIVE-ffb000?style=for-the-badge&labelColor=0d1117">
+<img src="https://img.shields.io/badge/CREATOR-ONLINE-ff3b81?style=for-the-badge&labelColor=0d1117">
 
 </div>
 
 ---
 
-## `01 // WHOAMI`
+## `01 // WHO AM I`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                       G O W D A  L A B                       │
+│                     Y A S H A S  G O W D A                  │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  NAME        : Yashas Gowda                                  │
-│                                                              │
-│  ROLE        : Developer                                     │
-│                Designer                                      │
-│                Cybersecurity Enthusiast                       │
-│                AI Builder                                    │
-│                Content Creator                               │
+│  ROLE        : Developer • Designer                          │
+│                AI Builder • Content Creator                  │
 │                Digital Marketing Enthusiast                  │
 │                                                              │
-│  EDUCATION   : BCA Student @ PES University                   │
+│  EDUCATION   : BCA Student @ PES University                  │
 │                                                              │
-│  FOCUS       : Development • Security • AI • Design          │
+│  FOCUS       : Development • AI • Design                     │
 │                Marketing • Content • Digital Systems         │
 │                                                              │
 │  STATUS      : ● ONLINE                                      │
@@ -44,13 +39,13 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> **GOWDA LAB** is my personal digital workspace for building, designing, experimenting, securing and creating with technology.
+> Building, designing, experimenting and creating at the intersection of **technology, creativity and digital media.**
 
 ---
 
-# `02 // SKILL MATRIX`
+# `02 // SKILLS`
 
-## 💻 DEVELOPMENT
+<div align="center">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -61,84 +56,19 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
----
-
-## 🌐 WEB & DEVELOPMENT TOOLS
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
----
-
-## ☁️ CLOUD & PLATFORMS
-
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-
----
-
-# `03 // CYBERSECURITY`
-
-<img src="https://img.shields.io/badge/Web_Security-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
-<img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge&logo=auth0&logoColor=EB5424">
-<img src="https://img.shields.io/badge/Secure_Development-111827?style=for-the-badge&logo=letsencrypt&logoColor=white">
-<img src="https://img.shields.io/badge/CTF-111827?style=for-the-badge&logo=tryhackme&logoColor=white">
-<img src="https://img.shields.io/badge/Vulnerability_Exploration-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94">
-<img src="https://img.shields.io/badge/SQL_Injection-111827?style=for-the-badge&logo=databricks&logoColor=orange">
-<img src="https://img.shields.io/badge/XSS-111827?style=for-the-badge&logo=owasp&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-<img src="https://img.shields.io/badge/API_Security-111827?style=for-the-badge&logo=postman&logoColor=FF6C37">
-
-```text
-                 ┌──────────────────────────┐
-                 │      SECURITY LAB        │
-                 └────────────┬─────────────┘
-                              │
-              ┌───────────────┼───────────────┐
-              │               │               │
-           WEB SEC         AUTH          SECURE DEV
-              │               │               │
-          ┌───┴───┐       ┌───┴───┐       ┌───┴───┐
-          │       │       │       │       │       │
-         XSS     SQLi     JWT    ACCESS   INPUT   API
-          │       │       │       │       │       │
-          └───────┴───────┴───────┴───────┴───────┘
-                              │
-                       BUILD • TEST • SECURE
-```
-
----
-
-# `04 // AI & AUTOMATION`
-
-<img src="https://img.shields.io/badge/AI_Applications-111827?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/AI_Tools-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75FF">
-<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF">
-<img src="https://img.shields.io/badge/AI_Assisted_Development-111827?style=for-the-badge&logo=githubcopilot&logoColor=white">
-<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=probot&logoColor=white">
-
-```text
-AI
-│
-├── APPLICATIONS
-├── AUTOMATION
-├── DEVELOPER TOOLS
-├── AI-ASSISTED DEVELOPMENT
-└── EXPERIMENTATION
-```
-
----
-
-# `05 // DESIGN & CREATIVE`
 
 <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
@@ -147,14 +77,6 @@ AI
 <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-
-**Focus**
-
-`UI Design` · `Digital Design` · `Graphic Design` · `Photo Editing` · `Video Editing` · `Visual Content`
-
----
-
-# `06 // MARKETING & CONTENT`
 
 <img src="https://img.shields.io/badge/Marketing-FF6B00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Digital_Marketing-7B61FF?style=for-the-badge">
@@ -167,36 +89,39 @@ AI
 <img src="https://img.shields.io/badge/Campaign_Planning-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/Community_Engagement-111827?style=for-the-badge">
 
-```text
-                    MARKETING LAB
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-      DIGITAL          SOCIAL         CONTENT
-      MARKETING        MEDIA         CREATION
-          │              │              │
-      STRATEGY        BRANDING       DESIGN
-      CAMPAIGNS       ENGAGEMENT     VIDEO
-      PROMOTION       MANAGEMENT     COPY
-                         │
-                    AUDIENCE
-                         │
-                    ENGAGEMENT
-```
-
----
-
-# `07 // PRODUCTIVITY`
-
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
 <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
+</div>
+
 ---
 
-# `08 // TECHNOLOGY MATRIX`
+# `03 // INTERESTS`
+
+<div align="center">
+
+### 🛡️ Cybersecurity & Web Security
+
+### 🤖 Artificial Intelligence & Automation
+
+### 💻 Web Development & Digital Products
+
+### 🎨 UI/UX & Digital Design
+
+### 📱 Social Media & Digital Marketing
+
+### 🎬 Content Creation & Visual Storytelling
+
+### 🚀 Emerging Technology & Innovation
+
+</div>
+
+---
+
+# `04 // TECHNOLOGY`
 
 <div align="center">
 
@@ -206,7 +131,7 @@ AI
 
 ---
 
-# `09 // ACTIVE PROJECTS`
+# `05 // ACTIVE PROJECTS`
 
 <table>
 <tr>
@@ -264,7 +189,7 @@ Experiments with AI-powered applications, automation and developer tools.
 
 ---
 
-# `10 // LAB PHILOSOPHY`
+# `06 // BUILD PHILOSOPHY`
 
 <div align="center">
 
@@ -277,22 +202,20 @@ Experiments with AI-powered applications, automation and developer tools.
           ↓
      UNDERSTAND
           ↓
-        SECURE
-          ↓
-       REBUILD
+       IMPROVE
           ↓
         CREATE
           ↓
         REPEAT
 ```
 
-### `BUILDING IS THE BEST WAY TO LEARN.`
+### `BUILD • CREATE • LEARN • REPEAT`
 
 </div>
 
 ---
 
-# `11 // GITHUB TELEMETRY`
+# `07 // GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -308,7 +231,7 @@ Experiments with AI-powered applications, automation and developer tools.
 
 ---
 
-# `12 // CONTRIBUTION MATRIX`
+# `08 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -318,7 +241,7 @@ Experiments with AI-powered applications, automation and developer tools.
 
 ---
 
-# `13 // RANDOM DEV SIGNAL`
+# `09 // RANDOM DEV SIGNAL`
 
 <div align="center">
 
@@ -328,55 +251,47 @@ Experiments with AI-powered applications, automation and developer tools.
 
 ---
 
-# `14 // TERMINAL STATUS`
+# `10 // TERMINAL STATUS`
 
 ```text
-yashas@gowda-lab:~$ ./status
+yashas@digital-profile:~$ ./status
 
 [+] Developer              : ONLINE
 [+] Designer               : ONLINE
-[+] Cybersecurity          : ACTIVE
 [+] AI Builder             : ONLINE
 [+] Web Development        : BUILDING
 [+] Digital Marketing      : ACTIVE
 [+] Content Creation       : ACTIVE
 [+] Social Media           : ACTIVE
-[+] Video Editing          : AVAILABLE
-[+] Photo Editing          : AVAILABLE
+[+] Cybersecurity Interest : ACTIVE
 [+] Microsoft Office       : AVAILABLE
 [+] Projects               : BUILDING
 [+] Learning               : CONTINUOUS
 
-yashas@gowda-lab:~$ _
+yashas@digital-profile:~$ _
 ```
 
 ---
 
-# `15 // CONNECT`
+# `11 // SOCIALS`
 
 <div align="center">
 
 <a href="https://github.com/yashas621">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/yashas-gowda-k-aa737031b/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:yashasgowdak621@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yashas621&style=for-the-badge&color=00ff9c&label=LAB+VISITORS" alt="Profile Views">
-
-<br><br>
-
-### `GOWDA LAB // SYSTEM ONLINE ⚡`
-
-`BUILD • DESIGN • BREAK • SECURE • CREATE • MARKET`
+<img src="https://komarev.com/ghpvc/?username=yashas621&style=for-the-badge&color=00ff9c&label=PROFILE+VISITORS" alt="Profile Views">
 
 </div>
 
@@ -384,6 +299,12 @@ yashas@gowda-lab:~$ _
 
 <div align="center">
 
-### `© YASHAS GOWDA // GOWDA LAB`
+### `Y A S H A S  G O W D A // SYSTEM ONLINE ⚡`
+
+`BUILD • DESIGN • CREATE • SECURE • MARKET`
+
+<br>
+
+`© YASHAS GOWDA`
 
 </div>
