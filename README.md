@@ -30,7 +30,7 @@
 │  Operator      : Yashas Gowda                            │
 │  Role          : Developer / Cybersecurity Explorer      │
 │  Environment   : Web • AI • Security                     │
-│  Status        : Building                                │
+│  Status        : Building                               │
 │                                                          │
 │  Mission       : Turn ideas into useful systems.         │
 │                                                          │
@@ -112,13 +112,24 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=650&color=00FF9C&center=true&vCenter=true&width=760&lines=%5B+SECURITY+MODULE+%5D+INITIALIZING...;%5B+SCAN+%5D+Web+Security;%5B+SCAN+%5D+Secure+Development;%5B+SCAN+%5D+Vulnerability+Exploration;%5B+SCAN+%5D+CTF+%2F+Security+Challenges;%5B+SCAN+%5D+Authentication+%26+Authorization;%5B+SCAN+%5D+Security-focused+AI;%5B+STATUS+%5D+SECURITY+SYSTEM+ONLINE" alt="Animated Security Mode" />
+
+<br><br>
+
 ```text
-[████████████████████████████████] 100%
-
-        SECURITY SYSTEM ONLINE
+┌──────────────────────────────────────────────────────────┐
+│                 SECURITY MODULE                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  WEB SECURITY                 ████████████████████  ON    │
+│  SECURE DEVELOPMENT           ████████████████████  ON    │
+│  VULNERABILITY EXPLORATION    ████████████████████  ON    │
+│  CTF / SECURITY CHALLENGES    ████████████████████  ON    │
+│  AUTHENTICATION               ████████████████████  ON    │
+│  SECURITY + AI                ████████████████████  ON    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=600&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+Web+Security;%3E+Secure+Development;%3E+Vulnerability+Exploration;%3E+CTF+%2F+Security+Challenges;%3E+Authentication+%26+Authorization;%3E+Security-focused+AI+Tools" alt="Security Animation" />
 
 </div>
 
@@ -172,70 +183,48 @@ GOWDA LAB is my personal space for **building projects, experimenting with techn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashas621&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=yashas621&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas621&layout=compact&theme=transparent&hide_border=true" height="170" />
-
-</div>
-
----
-
-## 🔥 `STREAK`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yashas621&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 `CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yashas621/yashas621/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashas621&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=00FF9C&center=true&vCenter=true&width=600&lines=Contribution+matrix+online...;Tracking+activity...;Keep+building.;Keep+committing.;Keep+learning." alt="Contribution Animation" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashas621&theme=radical&hide_border=true" height="180" />
 
 </div>
 
 ---
 
-## 🌐 `CONNECT TO THE LAB`
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=650&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+BOOT+%5D+GOWDA+LAB+connection+module...;%5B+SCAN+%5D+Checking+available+channels...;%5B+OK+%5D+GitHub+connection+ready;%5B+OK+%5D+LinkedIn+connection+ready;%5B+STATUS+%5D+ONLINE;%5B+MODE+%5D+READY+TO+CONNECT" alt="Connection Animation" />
-
-<br><br>
 
 <a href="https://github.com/yashas621">
-<img src="https://img.shields.io/badge/%F0%9F%90%99-GitHub-0d1117?style=for-the-badge" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/yashas-gowda-k-aa737031b/">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC-LinkedIn-0d1117?style=for-the-badge" alt="LinkedIn" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn" />
 </a>
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=650&color=00FF9C&center=true&vCenter=true&width=720&lines=%5B+SYSTEM+%5D+Connection+module+initializing...;%5B+SCAN+%5D+Checking+network+channels...;%5B+GITHUB+%5D+Connection+ready.;%5B+LINKEDIN+%5D+Connection+ready.;%5B+SYSTEM+%5D+Connection+established.;%5B+STATUS+%5D+ONLINE+%E2%9A%A1" alt="Connection Animation" />
+
+<br>
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║                  CONNECTION ESTABLISHED                  ║
+║              CONNECTION ESTABLISHED                      ║
 ║                                                          ║
-║             BUILD • BREAK • SECURE • CREATE              ║
+║       BUILD  →  BREAK  →  SECURE  →  CREATE              ║
 ║                                                          ║
-║                  SYSTEM STATUS: ONLINE                   ║
+║              [ SYSTEM STATUS: ONLINE ]                   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+GOWDA+LAB.;See+you+in+the+next+experiment.;%3E+End+of+transmission..." alt="Footer Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+Thanks+for+visiting+GOWDA+LAB.;%3E+Next+experiment+loading...;%3E+Keep+building.;%3E+Keep+learning.;%3E+End+of+transmission..." alt="Footer Animation" />
 
 </div>
